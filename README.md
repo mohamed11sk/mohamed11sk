@@ -5,18 +5,15 @@
 
 ## 🚀 About Me
 - 💻 Backend Developer specialized in **Node.js, PHP, and MySQL**
-- ⚡ Building real-world systems (E-commerce, Email Marketing, IoT Apps)
-- 🌱 Currently learning **MERN Stack** with focus on backend scalability
-- 🤖 Interested in **AI-powered applications & SaaS systems**
-- 🏭 Business owner (Food products) → Real experience in market needs
-- 📫 Reach me: **srorr8872@gmail.com**
+- ⚡ Built real-world systems (E-commerce, Email Marketing, IoT Apps)
+- 🌱 Currently learning **MERN Stack**
+- 🤖 Interested in **AI + SaaS systems**
+- 🏭 Business owner → Real market experience
 
 ---
 
-## 🧠 What Makes Me Different
-✔ I don’t just code — I build systems that solve real business problems  
-✔ Strong mix of **Tech + Business mindset**  
-✔ Experience in **IoT + Mobile Apps (Flutter + ESP32)**  
+## 🧠 Core Focus
+**Backend Development | APIs | System Design | Performance Optimization**
 
 ---
 
@@ -28,27 +25,52 @@
 
 ---
 
-## 🛠️ Tech Stack (Focused)
-### Backend
+## 🛠️ Tech Stack
+
+### 🧠 Core Backend
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
 
-### Database
+---
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Other Skills
+---
+
+### 🌐 Frontend (Supportive)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+### 📱 Mobile & IoT
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase)
+
+---
+
+### ⚙️ Tools & Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase)
+![Playwright](https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-- 🛒 **E-Commerce Platform** → Full system (Auth, Cart, Orders, Admin Dashboard)
-- 📧 **Email Marketing System** → Sending + Tracking + Campaign Management
-- 🤖 **IoT Gas Detection App** → Flutter + ESP32 + Real-time monitoring
+- 🛒 E-Commerce Platform  
+- 📧 Email Marketing System  
+- 🤖 IoT Gas Detection App  
 
 ---
 
