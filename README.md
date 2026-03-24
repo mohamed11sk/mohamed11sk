@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
-<h3 align="center">🔥 Backend Developer | Node.js & PHP | Building Scalable Systems</h3>
+<h3 align="center">🔥 Full Stack | MERN Stack & PHP | Building Scalable Systems & REST APIs</h3>
 
 ---
 
