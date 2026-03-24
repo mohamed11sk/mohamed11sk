@@ -60,8 +60,9 @@
 ---
 
 ### 📱 Mobile Applications & IoT
-
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-%23FF6F00.svg?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
