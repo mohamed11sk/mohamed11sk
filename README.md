@@ -1,30 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mohamed Elsayed</h1>
-<h3 align="center">🔥 Backend Developer | Node.js & PHP | Building Scalable Systems</h3>
-
----
-
-## 🚀 About Me
-- 💻 Backend Developer specialized in **Node.js, PHP, and MySQL**
-- ⚡ Built real-world systems (E-commerce, Email Marketing, IoT Apps)
-- 🌱 Currently learning **MERN Stack**
-- 🤖 Interested in **AI + SaaS systems**
-- 🏭 Business owner → Real market experience
-
----
-
-## 🧠 Core Focus
-**Backend Development | APIs | System Design | Performance Optimization**
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsayed-83503521a)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/18Au47VuVz/)
-[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](https://www.tiktok.com/@pr0gramming_code)
-[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/@programming_code)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧠 Core Backend
@@ -38,6 +11,7 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase)
 
 ---
 
@@ -56,30 +30,14 @@
 
 ---
 
-### ⚙️ Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-yellow?style=for-the-badge&logo=firebase)
+### 🧪 Testing
 ![Playwright](https://img.shields.io/badge/playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-- 🛒 E-Commerce Platform  
-- 📧 Email Marketing System  
-- 🤖 IoT Gas Detection App  
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mohamed11sk&theme=dark&hide_border=true)
-![](https://nirzak-streak-stats.vercel.app/?user=mohamed11sk&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed11sk&theme=dark&layout=compact)
-
----
-
-## 🔥 Quote
-> "I build backend systems that don't just work… they scale." 🚀
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
